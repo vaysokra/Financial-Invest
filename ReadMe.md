@@ -1,4 +1,4 @@
-## Financial Report
+## Financial Report📊
 - ### Comapany outstanding
 | Income Statement | Balance Sheet | Cash Flow |
 | ----------- | ----------- |----------------- |
@@ -7,7 +7,7 @@
 | Income Statement | Balance Sheet | Cash Flow |
 | ----------- | ----------- |----------------- |
 | Earning per share (EPS) | Book value ||
-## Warren Buffet Style🥇
+## Warren Buffet Style💡
 - ### Rule
      stock must stable and understandable, long term prospect, manage by vigilant leader👑, undervalue 
 - ### Ratio
