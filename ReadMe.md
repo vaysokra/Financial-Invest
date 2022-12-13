@@ -1,3 +1,4 @@
+[https://www.theinvestorspodcast.com/warren-buffett-investment-strategy/](https://www.theinvestorspodcast.com/warren-buffett-investment-strategy/)
 ## Financial Report📊
 - ### Comapany outstanding
 | Income Statement | Balance Sheet | Cash Flow |
