@@ -18,6 +18,8 @@
 [^1]: Price/Earning 
 [^2]: Price/Book_value
 ## Federal Reserve
+     The Federal Reserve System (often shortened to the Federal Reserve, or simply the Fed) is the central banking system of the United States of America. It was created on December 23, 1913, with the enactment of the Federal Reserve Act, after a series of financial panics (particularly the panic of 1907).
+     The federal funds rate describes the interest rate that banks charge other banks for lending them cash (typically excess monies on hand in their reserve balances)   on an overnight basis.
 - ### when interest Rates are High = buy Bonds
      You'll get a great coupon that pays a lot interest
      When interest Rates decrease, the market price of a bond will increases.
