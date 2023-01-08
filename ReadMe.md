@@ -1,4 +1,5 @@
 [https://www.theinvestorspodcast.com/warren-buffett-investment-strategy/](https://www.theinvestorspodcast.com/warren-buffett-investment-strategy/)
+- invest only for big money , trading(like make bussiness) can start from small money to get freedom
 ## Financial Report📊
 - ### Comapany outstanding
 | Income Statement | Balance Sheet | Cash Flow |
